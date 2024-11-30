@@ -4,7 +4,6 @@ An eCommerce Website Content Management System built using the PHP programming l
 
 **Created By:** 
 
-Kohinoor Sultana Elora
 
 Saowmi Mehjabin
 
@@ -13,3 +12,5 @@ Sharon Rose Sarker
 Tarannum Ahmed Nowshin
 
 Tahiya Yusha
+
+Kohinoor Sultana Elora
